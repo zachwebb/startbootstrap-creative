@@ -1,0 +1,112 @@
+{
+	"portfolio": [
+		{
+			"url":"img/portfolio/graphic-design/exercise-la-sticker.jpg",
+			"thumb":"img/portfolio/1.jpg",
+			"category":"Print Design",
+			"title":"Excercise LA Sticker"
+		},
+		{
+			"url":"img/portfolio/graphic-design/garage-envy-catalog.jpg",
+			"thumb":"img/portfolio/2.jpg",
+			"category":"Print Design",
+			"title":"Garage Envy Catalog"
+		},
+		{
+			"url":"https://www.youtube.com/watch?v=P-LvHlr6foE",
+			"thumb":"img/portfolio/3.jpg",
+			"category":"Video Illustrations",
+			"title":"This is a video"
+		},
+		{
+			"url":"img/portfolio/logos/instinctlogo.png",
+			"thumb":"img/portfolio/4.jpg",
+			"category":"Logos and Branding",
+			"title":"Instinct Logo"
+		},
+		{
+			"url":"img/portfolio/graphic-design/exercise-la-sticker.jpg",
+			"thumb":"img/portfolio/1.jpg",
+			"category":"Print Design",
+			"title":"Excercise LA Sticker"
+		},
+		{
+			"url":"img/portfolio/graphic-design/garage-envy-catalog.jpg",
+			"thumb":"img/portfolio/2.jpg",
+			"category":"Print Design",
+			"title":"Garage Envy Catalog"
+		},
+		{
+			"url":"https://www.youtube.com/watch?v=P-LvHlr6foE",
+			"thumb":"img/portfolio/3.jpg",
+			"category":"Video Illustrations",
+			"title":"This is a video"
+		},
+		{
+			"url":"img/portfolio/logos/instinctlogo.png",
+			"thumb":"img/portfolio/4.jpg",
+			"category":"Logos and Branding",
+			"title":"Instinct Logo"
+		},
+		{
+			"url":"img/portfolio/graphic-design/exercise-la-sticker.jpg",
+			"thumb":"img/portfolio/1.jpg",
+			"category":"Print Design",
+			"title":"Excercise LA Sticker"
+		},
+		{
+			"url":"img/portfolio/graphic-design/garage-envy-catalog.jpg",
+			"thumb":"img/portfolio/2.jpg",
+			"category":"Print Design",
+			"title":"Garage Envy Catalog"
+		},
+		{
+			"url":"https://www.youtube.com/watch?v=P-LvHlr6foE",
+			"thumb":"img/portfolio/3.jpg",
+			"category":"Video Illustrations",
+			"title":"This is a video"
+		},
+		{
+			"url":"img/portfolio/logos/instinctlogo.png",
+			"thumb":"img/portfolio/4.jpg",
+			"category":"Logos and Branding",
+			"title":"Instinct Logo"
+		},
+		{
+			"url":"https://www.youtube.com/watch?v=P-LvHlr6foE",
+			"thumb":"img/portfolio/3.jpg",
+			"category":"Video Illustrations",
+			"title":"This is a video"
+		},
+		{
+			"url":"img/portfolio/logos/instinctlogo.png",
+			"thumb":"img/portfolio/4.jpg",
+			"category":"Logos and Branding",
+			"title":"Instinct Logo"
+		},
+		{
+			"url":"img/portfolio/graphic-design/exercise-la-sticker.jpg",
+			"thumb":"img/portfolio/1.jpg",
+			"category":"Print Design",
+			"title":"Excercise LA Sticker"
+		},
+		{
+			"url":"img/portfolio/graphic-design/garage-envy-catalog.jpg",
+			"thumb":"img/portfolio/2.jpg",
+			"category":"Print Design",
+			"title":"Garage Envy Catalog"
+		},
+		{
+			"url":"https://www.youtube.com/watch?v=P-LvHlr6foE",
+			"thumb":"img/portfolio/3.jpg",
+			"category":"Video Illustrations",
+			"title":"This is a video"
+		},
+		{
+			"url":"img/portfolio/logos/instinctlogo.png",
+			"thumb":"img/portfolio/4.jpg",
+			"category":"Logos and Branding",
+			"title":"Instinct Logo"
+		}
+	]
+}
