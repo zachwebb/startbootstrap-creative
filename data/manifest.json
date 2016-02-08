@@ -1,112 +1,112 @@
 {
 	"portfolio": [
-		{
-			"url":"img/portfolio/graphic-design/exercise-la-sticker.jpg",
-			"thumb":"img/portfolio/1.jpg",
-			"category":"Print Design",
-			"title":"Excercise LA Sticker"
-		},
-		{
-			"url":"img/portfolio/graphic-design/garage-envy-catalog.jpg",
-			"thumb":"img/portfolio/2.jpg",
-			"category":"Print Design",
-			"title":"Garage Envy Catalog"
-		},
-		{
-			"url":"https://www.youtube.com/watch?v=P-LvHlr6foE",
-			"thumb":"img/portfolio/3.jpg",
-			"category":"Video Illustrations",
-			"title":"This is a video"
-		},
-		{
-			"url":"img/portfolio/logos/instinctlogo.png",
-			"thumb":"img/portfolio/4.jpg",
-			"category":"Logos and Branding",
-			"title":"Instinct Logo"
-		},
-		{
-			"url":"img/portfolio/graphic-design/exercise-la-sticker.jpg",
-			"thumb":"img/portfolio/1.jpg",
-			"category":"Print Design",
-			"title":"Excercise LA Sticker"
-		},
-		{
-			"url":"img/portfolio/graphic-design/garage-envy-catalog.jpg",
-			"thumb":"img/portfolio/2.jpg",
-			"category":"Print Design",
-			"title":"Garage Envy Catalog"
-		},
-		{
-			"url":"https://www.youtube.com/watch?v=P-LvHlr6foE",
-			"thumb":"img/portfolio/3.jpg",
-			"category":"Video Illustrations",
-			"title":"This is a video"
-		},
-		{
-			"url":"img/portfolio/logos/instinctlogo.png",
-			"thumb":"img/portfolio/4.jpg",
-			"category":"Logos and Branding",
-			"title":"Instinct Logo"
-		},
-		{
-			"url":"img/portfolio/graphic-design/exercise-la-sticker.jpg",
-			"thumb":"img/portfolio/1.jpg",
-			"category":"Print Design",
-			"title":"Excercise LA Sticker"
-		},
-		{
-			"url":"img/portfolio/graphic-design/garage-envy-catalog.jpg",
-			"thumb":"img/portfolio/2.jpg",
-			"category":"Print Design",
-			"title":"Garage Envy Catalog"
-		},
-		{
-			"url":"https://www.youtube.com/watch?v=P-LvHlr6foE",
-			"thumb":"img/portfolio/3.jpg",
-			"category":"Video Illustrations",
-			"title":"This is a video"
-		},
-		{
-			"url":"img/portfolio/logos/instinctlogo.png",
-			"thumb":"img/portfolio/4.jpg",
-			"category":"Logos and Branding",
-			"title":"Instinct Logo"
-		},
-		{
-			"url":"https://www.youtube.com/watch?v=P-LvHlr6foE",
-			"thumb":"img/portfolio/3.jpg",
-			"category":"Video Illustrations",
-			"title":"This is a video"
-		},
-		{
-			"url":"img/portfolio/logos/instinctlogo.png",
-			"thumb":"img/portfolio/4.jpg",
-			"category":"Logos and Branding",
-			"title":"Instinct Logo"
-		},
-		{
-			"url":"img/portfolio/graphic-design/exercise-la-sticker.jpg",
-			"thumb":"img/portfolio/1.jpg",
-			"category":"Print Design",
-			"title":"Excercise LA Sticker"
-		},
-		{
-			"url":"img/portfolio/graphic-design/garage-envy-catalog.jpg",
-			"thumb":"img/portfolio/2.jpg",
-			"category":"Print Design",
-			"title":"Garage Envy Catalog"
-		},
-		{
-			"url":"https://www.youtube.com/watch?v=P-LvHlr6foE",
-			"thumb":"img/portfolio/3.jpg",
-			"category":"Video Illustrations",
-			"title":"This is a video"
-		},
-		{
-			"url":"img/portfolio/logos/instinctlogo.png",
-			"thumb":"img/portfolio/4.jpg",
-			"category":"Logos and Branding",
-			"title":"Instinct Logo"
-		}
+	  {
+	    "url":"img/portfolio/SweetStache.jpg",
+	    "thumb":"img/thumbs/SweetStache.jpg",
+	    "category":"Logos & Branding",
+	    "title":"Sweet Stache Bakery"
+	  },
+	  {
+	    "url":"img/portfolio/textMap.jpg",
+	    "thumb":"img/thumbs/TextMap.jpg",
+	    "category":"Print Design",
+	    "title":"Text Map Art Print"
+	  },
+	  {
+	    "url":"img/portfolio/theStrangePoster.jpg",
+	    "thumb":"img/thumbs/theStrangePoster.jpg",
+	    "category":"Theatre Print",
+	    "title":"The Strange Poster"
+	  },
+	  {
+	    "url":"img/portfolio/AnimalPrints2.jpg",
+	    "thumb":"img/thumbs/AnimalPrints2.jpg",
+	    "category":"Print Design",
+	    "title":"Animal Art Prints"
+	  },
+	  {
+	    "url":"img/portfolio/fitbit_booklet.jpg",
+	    "thumb":"img/thumbs/fitit_booklet.jpg",
+	    "category":"Print Design",
+	    "title":"FitBit Booklet"
+	  },
+	  {
+	    "url":"img/portfolio/matawanCampaign.jpg",
+	    "thumb":"img/thumbs/matawanCampaign.jpg",
+	    "category":"Theatre Print",
+	    "title":"Matawan Print Campaign"
+	  },
+	  {
+	    "url":"img/portfolio/KeilenPhotography.jpg",
+	    "thumb":"img/thumbs/KeilenPhotography.jpg",
+	    "category":"Logos & Branding",
+	    "title":"Keilen Photogrpahy Logo"
+	  },
+	  {
+	    "url":"img/portfolio/DinoPrint.jpg",
+	    "thumb":"img/thumbs/DinoPrint.jpg",
+	    "category":"Print Design",
+	    "title":"Partysaurus Art Print"
+	  },
+	  {
+	    "url":"img/portfolio/GEBooklet.jpg",
+	    "thumb":"img/thumbs/GEBooklet.jpg",
+	    "category":"Print Design",
+	    "title":"Grage Envy Catalog"
+	  },
+	  {
+	    "url":"img/portfolio/OctopusPrint.jpg",
+	    "thumb":"img/thumbs/octopusPrint.jpg",
+	    "category":"Print Design",
+	    "title":"Octopus Art Print"
+	  },
+	  {
+	    "url":"img/portfolio/deerposter.jpg",
+	    "thumb":"img/thumbs/thedeer_poster.jpg",
+	    "category":"Theatre Print",
+	    "title":"The Deer Poster"
+	  },
+	  {
+	    "url":"img/portfolio/ExerciseLA.jpg",
+	    "thumb":"img/thumbs/ExerciseLA.jpg",
+	    "category":"Print Design",
+	    "title":"Stickers for Exercise LA"
+	  },
+	  {
+	    "url":"img/portfolio/PeakBooklet.jpg",
+	    "thumb":"img/thumbs/PeakBooklet.jpg",
+	    "category":"Print Design",
+	    "title":"Peak 1031 Exchange Booklet"
+	  },
+	  {
+	    "url":"img/portfolio/ReplaceFace.jpg",
+	    "thumb":"img/thumbs/ReplaceFace.jpg",
+	    "category":"Print Design",
+	    "title":"Replace Face Prints"
+	  },
+	  {
+	    "url":"img/portfolio/homeBeforeDarkPoster.jpg",
+	    "thumb":"img/thumbs/homeBeforeDarkPoster.jpg",
+	    "category":"Theatre Print",
+	    "title":"Home Before Dark Poster"
+	  },
+	  {
+	    "url":"https://vimeo.com/154491614",
+	    "thumb":"img/thumbs/OEdemo.jpg",
+	    "category":"Video & Animation",
+	    "title":"Open Enrollment Demo"
+	  },
+	  {
+	    "url":"img/portfolio/gfgmsite.jpg",
+	    "thumb":"img/thumbs/gfgmsite.jpg",
+	    "category":"UX & Web Design",
+	    "title":"Grandfathered Grandmothered Site"
+	  },
+	  {
+	    "url":"img/portfolio/SDMSsite.jpg",
+	    "thumb":"img/thumbs/SDMSsite.jpg",
+	    "category":"UX & Web Design",
+	    "title":"Shared Decision Making Site"
+	  }
 	]
 }

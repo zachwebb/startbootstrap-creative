@@ -8,8 +8,6 @@ $(function(){
 	    /* Video */
 	    $( '.swipebox-video' ).swipebox();
 
-	   
-
     });
 
 	var portfolioContent = {
@@ -40,6 +38,16 @@ $(function(){
 
 		portfolioContent.loadPortfolio();
 
+	});
+
+	$('#my-email').html(function(){
+		var e = "zach";
+		var a = "@";
+		var d = "ninethreestudios";
+		var c = ".com";
+		var h = 'mailto:' + e + a + d + c;
+		$(this).parent('a').attr('href', h);
+		return e + a + d + c;
 	});
 	
 });
